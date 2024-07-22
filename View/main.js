@@ -1,5 +1,5 @@
 const prompt = require("prompt-sync")();
-const fun = require("../Model/index.js");
+const fun = require("../Model/atividades.js");
 
 let saida = 0;
 let atividades = [];
